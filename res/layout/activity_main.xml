@@ -13,5 +13,13 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
     </ListView>
+
+    <Button
+        android:id="@+id/loadContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="GO!" />
     
 </RelativeLayout>
